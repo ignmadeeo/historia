@@ -62,6 +62,6 @@ if medium == "ja":
 else:
     print("du förlorade")
 while True:
-    if power >= 6:
+    if power >= 7:
         print("du har nått maximal styrka för din level")
         break
